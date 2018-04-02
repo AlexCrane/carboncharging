@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "WwaOOnklfFsMv6ZWPDUQs4f9scE=",
+			"path": "github.com/DHowett/go-plist",
+			"revision": "84d08b7bddb35583bb3153b811c6cc52bb306f52",
+			"revisionTime": "2018-02-14T08:12:42Z"
+		},
+		{
+			"checksumSHA1": "Ut+vaUeerV2CbSpCX64bmCC6wrw=",
+			"path": "github.com/distatus/battery",
+			"revision": "916919eb43bd0567646f048c0fb0e8c61a4ebc24",
+			"revisionTime": "2017-05-21T01:04:19Z"
+		},
+		{
+			"checksumSHA1": "iI+ruycf997ay2Z0Skg5rUSRzYw=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "378d26f46672a356c46195c28f61bdb4c0a781dd",
+			"revisionTime": "2018-03-29T12:30:35Z"
+		},
+		{
+			"checksumSHA1": "74+7aw7O1SH4Mn5dKZNjVLvv55A=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "378d26f46672a356c46195c28f61bdb4c0a781dd",
+			"revisionTime": "2018-03-29T12:30:35Z"
+		},
+		{
+			"checksumSHA1": "Pc3dfZw9Oi01FSjYP56SmX7Zgj4=",
+			"path": "howett.net/plist",
+			"revision": "84d08b7bddb35583bb3153b811c6cc52bb306f52",
+			"revisionTime": "2018-02-14T08:12:42Z"
+		}
+	],
+	"rootPath": "github.com/AlexCrane/carboncharging"
+}
